@@ -24,6 +24,6 @@ This is a tool built purely to give you control — over your data and your hist
 
 Seeing your complete history laid out clearly is one of the most powerful tools for understanding and taking control of your own behavior. Not to judge — but to inform.
 
-## PSSSTT...
+## Future Possibilities
 
 Combining this platform with targeted advertising, affiliation and a native deposit and withdrawal method could create something larger than the casinos themselves — and for once, built in the interest of the user.
