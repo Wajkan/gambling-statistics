@@ -13,6 +13,7 @@ This is a tool built purely to give you control — over your data and your hist
 
 - Win / loss per casino and betting site
 - Win / loss per slot, game or bet type
+- Sports betting — full history per sport, league and bet
 - Poker and any other form of betting
 - Total lifetime win / loss
 - Overview per platform
@@ -22,3 +23,7 @@ This is a tool built purely to give you control — over your data and your hist
 ## Why It Exists
 
 Seeing your complete history laid out clearly is one of the most powerful tools for understanding and taking control of your own behavior. Not to judge — but to inform.
+
+## PSSSTT...
+
+Combining this platform with targeted advertising, affiliation and a native deposit and withdrawal method could create something larger than the casinos themselves — and for once, built in the interest of the user.
