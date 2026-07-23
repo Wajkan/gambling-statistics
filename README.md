@@ -17,6 +17,3 @@ This is the following statistics that will be tracked,
 
 Seeing your complete history laid out clearly is one of the most powerful tools for understanding and taking control of your own behavior.
 
-Future vision:
-
-Combining this platform with targeted advertising, affiliation and a native deposit and withdrawal method could create something larger than the casinos themselves — and for once, built in the interest of the user.
